@@ -1,0 +1,38 @@
+0. what is the fullform of DCN ?
+     1.Burst   2.Dentacoin   3.PACcoin
+1. what is the fullform of ITC ?
+     1.IoT Chain   2.Dragonchain   3.PIVX
+2. what is the fullform of AGRS ?
+     1.Agoras Tokens   2.Agoras Tokens   3.Eidoo
+3. what is the fullform of STORM ?
+     1.Cobinhood   2.Storm   3.KuCoin Shares
+4. what is the fullform of FAIR ?
+     1.Pillar   2.Raiden Networ...   3.FairCoin
+5. what is the fullform of WGR ?
+     1.Pillar   2.Bitcore   3.Wagerr
+6. what is the shortform of NAGA ?
+     1.XRP   2.NGC   3.STRAT
+7. what is the shortform of Simple Token ?
+     1.OST   2.HVN   3.THC
+8. what is the shortform of Pillar ?
+     1.PLR   2.HST   3.XSH
+9. what is the shortform of RChain ?
+     1.XCP   2.RHOC   3.ECA
+10. what is the shortform of Melon ?
+     1.MLN   2.XRB   3.MTH
+11. what is the shortform of Golem ?
+     1.XSH   2.GNT   3.FCT
+12. what is the shortform of NAGA ?
+     1.NGC   2.XSPEC   3.AMP
+13. what is the price of Walton ?
+    1.115089224.754  2.147234159.599  3.628248256.021
+14. what is the price of Wings ?
+    1.984926912.9  2.154035019.278  3.59026378.6557
+15. what is the price of Byteball Bytes ?
+     1.345367363.054   2.207162617.87   3.207162617.87
+16. what is the price of NAGA ?
+     1.35899927.789   2.58412274.0965   3.49029009.6392
+17. what is the price of Asch ?
+     1.88105710.0   2.93632026.2702   3.96355427.1065
+18. what is the price of Lunyr ?
+    1.150702985544.0  2.68260251.8637  3.43087272.8609

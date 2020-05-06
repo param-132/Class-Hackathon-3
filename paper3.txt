@@ -1,0 +1,38 @@
+0. what is the fullform of GTO ?
+     1.WAX   2.Gifto   3.FunFair
+1. what is the fullform of ENJ ?
+     1.PotCoin   2.Ignis   3.Enjin Coin
+2. what is the fullform of NGC ?
+     1.Litecoin   2.Delphy   3.NAGA
+3. what is the fullform of CNX ?
+     1.Cryptonex   2.BitShares   3.Datum
+4. what is the fullform of EMC2 ?
+     1.Einsteinium   2.SuperNET   3.Basic Attenti...
+5. what is the fullform of MKR ?
+     1.Maker   2.Maecenas   3.MinexCoin
+6. what is the shortform of Internet Node... ?
+     1.INT   2.TEL   3.GRS
+7. what is the shortform of Status ?
+     1.SNGLS   2.FUEL   3.SNT
+8. what is the shortform of Waves ?
+     1.BCO   2.ARDR   3.WAVES
+9. what is the shortform of Zilliqa ?
+     1.XLM   2.ZIL   3.PPP
+10. what is the shortform of Gulden ?
+     1.TNC   2.NLG   3.AE
+11. what is the shortform of Santiment Net... ?
+     1.ZSC   2.TIX   3.SAN
+12. what is the shortform of Melon ?
+     1.BNT   2.MLN   3.ARDR
+13. what is the price of TenX ?
+     1.122053305.0   2.183153106.048   3.249497760.06
+14. what is the price of Humaniq ?
+     1.32996683.9134   2.285299677.384   3.65379468.1618
+15. what is the price of TenX ?
+     1.183153106.048   2.83771817.7767   3.115089224.754
+16. what is the price of Dimecoin ?
+    1.37498339.4811  2.47463625.9933  3.32239063.279
+17. what is the price of Nuls ?
+    1.49047750.0  2.43438253.4707  3.71953718.5613
+18. what is the price of bitCNY ?
+     1.35978512.92   2.592685118.08   3.393930290.057

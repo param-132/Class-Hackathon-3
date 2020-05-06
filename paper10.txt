@@ -1,0 +1,38 @@
+0. what is the fullform of TRIG ?
+     1.Ethereum   2.Triggers   3.NoLimitCoin
+1. what is the fullform of ZIL ?
+     1.Burst   2.YOYOW   3.Zilliqa
+2. what is the fullform of NULS ?
+     1.Nuls   2.Energo   3.Siacoin
+3. what is the fullform of NET ?
+     1.Nimiq   2.Iconomi   3.Wagerr
+4. what is the fullform of ETC ?
+     1.Ethereum Classic   2.Hive   3.Counterparty
+5. what is the fullform of SWFTC ?
+     1.Stratis   2.SwftCoin   3.Einsteinium
+6. what is the shortform of PIVX ?
+     1.PIVX   2.LTC   3.VRC
+7. what is the shortform of Einsteinium ?
+     1.GNO   2.EMC2   3.CAPP
+8. what is the shortform of Diamond ?
+     1.DMD   2.ZSC   3.RDD
+9. what is the shortform of I/O Coin ?
+     1.IOC   2.PEPECASH   3.LKK
+10. what is the shortform of aelf ?
+     1.DNT   2.SPANK   3.ELF
+11. what is the shortform of Walton ?
+     1.SWFTC   2.WTC   3.ICN
+12. what is the shortform of Flash ?
+     1.CDT   2.FLASH   3.BTX
+13. what is the price of Oyster ?
+    1.395683000.0  2.163232996.43  3.71788524.6865
+14. what is the price of FirstBlood ?
+    1.130307208.574  2.32674359.0  3.44607139.8357
+15. what is the price of Bytecoin ?
+     1.925831659.245   2.35362762.042   3.29188400.7491
+16. what is the price of Dragonchain ?
+     1.401342804.26   2.163232996.43   3.83771817.7767
+17. what is the price of Monaco ?
+     1.104178673.832   2.27608550.0   3.11637287829.8
+18. what is the price of DigiByte ?
+     1.393930290.057   2.164327717.997   3.44815780.3413

@@ -1,0 +1,38 @@
+0. what is the fullform of HST ?
+     1.OriginTrail   2.Decision Token   3.Phore
+1. what is the fullform of TKN ?
+     1.Kin   2.TokenCard   3.Mercury
+2. what is the fullform of UBQ ?
+     1.Bitcoin Gold   2.Ubiq   3.Kin
+3. what is the fullform of VEN ?
+     1.VeChain   2.BridgeCoin   3.LAToken
+4. what is the fullform of INK ?
+     1.Ink   2.ColossusCoinXT   3.Gnosis
+5. what is the fullform of NLC2 ?
+     1.NoLimitCoin   2.NEO   3.Decentraland
+6. what is the shortform of Streamr DATAcoin ?
+     1.ELF   2.EVX   3.DATA
+7. what is the shortform of Emercoin ?
+     1.Symbol   2.PRL   3.EMC
+8. what is the shortform of Groestlcoin ?
+     1.ZEN   2.XWC   3.GRS
+9. what is the shortform of Aion ?
+     1.GTO   2.DRGN   3.AION
+10. what is the shortform of Nano ?
+     1.XRB   2.NXT   3.IGNIS
+11. what is the shortform of DEW ?
+     1.BNT   2.DEW   3.SRN
+12. what is the shortform of Tether ?
+     1.SAN   2.TAAS   3.USDT
+13. what is the price of GameCredits ?
+     1.156865526.946   2.154035019.278   3.287880000.0
+14. what is the price of SIRIN LABS Token ?
+     1.118853004.056   2.339854200.0   3.27206689.1288
+15. what is the price of Safe Exchange... ?
+     1.45093996.7792   2.53893155.2513   3.70073456.4
+16. what is the price of Ardor ?
+    1.35669440.0  2.77438400.0  3.535035158.537
+17. what is the price of district0x ?
+     1.55107875.5621   2.53362980.0   3.66604775.708
+18. what is the price of Hshare ?
+     1.29671572.3878   2.556692466.764   3.345367363.054

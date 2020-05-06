@@ -1,0 +1,38 @@
+0. what is the fullform of AGRS ?
+     1.Agoras Tokens   2.Emercoin   3.Shift
+1. what is the fullform of GAME ?
+     1.MobileGo   2.GameCredits   3.KuCoin Shares
+2. what is the fullform of AMP ?
+     1.MinexCoin   2.Enigma   3.Synereo
+3. what is the fullform of TKN ?
+     1.Ripple   2.TokenCard   3.Syscoin
+4. what is the fullform of PPT ?
+     1.   2.Populous   3.Simple Token
+5. what is the fullform of DGD ?
+     1.Presearch   2.Civic   3.DigixDAO
+6. what is the shortform of NAGA ?
+     1.THETA   2.NGC   3.VIA
+7. what is the shortform of MediShares ?
+     1.XBY   2.STORM   3.MDS
+8. what is the shortform of BitcoinDark ?
+     1.HST   2.RCN   3.BTCD
+9. what is the shortform of Santiment Net... ?
+     1.BCO   2.SAN   3.PPC
+10. what is the shortform of Loopring ?
+     1.BOT   2.LRC   3.ETN
+11. what is the shortform of Feathercoin ?
+     1.PRO   2.LEO   3.FTC
+12. what is the shortform of OriginTrail ?
+     1.MOON   2.HVN   3.TRAC
+13. what is the price of QASH ?
+     1.339854200.0   2.70073456.4   3.592685118.08
+14. what is the price of Time New Bank ?
+     1.984926912.9   2.127033872.035   3.68149084.4888
+15. what is the price of Matchpool ?
+    1.35133155.0125  2.144732197.175  3.27608550.0
+16. what is the price of Kin ?
+     1.222989804.878   2.93632026.2702   3.295825068.411
+17. what is the price of IOTA ?
+     1.706362744.42   2.5585632875.51   3.291482177.049
+18. what is the price of SALT ?
+     1.302240608.67   2.251846621.642   3.109245300.0

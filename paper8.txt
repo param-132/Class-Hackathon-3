@@ -1,0 +1,38 @@
+0. what is the fullform of PAY ?
+     1.TenX   2.Ethos   3.SophiaTX
+1. what is the fullform of CTR ?
+     1.Centra   2.Unobtanium   3.Aragon
+2. what is the fullform of SALT ?
+     1.SingularityNET   2.SALT   3.Maker
+3. what is the fullform of LKK ?
+     1.Edgeless   2.Feathercoin   3.Lykke
+4. what is the fullform of DPY ?
+     1.Komodo   2.Mooncoin   3.Delphy
+5. what is the fullform of SNT ?
+     1.Bluzelle   2.Status   3.DeepOnion
+6. what is the shortform of district0x ?
+     1.BNB   2.QSP   3.DNT
+7. what is the shortform of Peercoin ?
+     1.BITCNY   2.NULS   3.PPC
+8. what is the shortform of EOS ?
+     1.UBQ   2.MDA   3.EOS
+9. what is the shortform of Pillar ?
+     1.AMP   2.PLR   3.COSS
+10. what is the shortform of Siacoin ?
+     1.PEPECASH   2.C20   3.SC
+11. what is the shortform of KuCoin Shares ?
+     1.UBQ   2.KCS   3.IOC
+12. what is the shortform of Cardano ?
+     1.ENG   2.ADA   3.DAT
+13. what is the price of Kin ?
+     1.27608550.0   2.222989804.878   3.43438253.4707
+14. what is the price of Modum ?
+    1.30391898.0069  2.47463625.9933  3.66604775.708
+15. what is the price of Waves ?
+     1.107297095.105   2.609998000.0   3.118578515.081
+16. what is the price of Storm ?
+    1.62634321.7897  2.554990000.0  3.147234159.599
+17. what is the price of Nexus ?
+     1.29671572.3878   2.178538423.672   3.335467500.0
+18. what is the price of Emercoin ?
+     1.118578515.081   2.166839436.333   3.52195552.0426

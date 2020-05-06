@@ -1,0 +1,38 @@
+0. what is the fullform of NEBL ?
+     1.Stratis   2.Particl   3.Neblio
+1. what is the fullform of CV ?
+     1.Po.et   2.Zcash   3.carVertical
+2. what is the fullform of ECA ?
+     1.IOTA   2.Electra   3.ZenCash
+3. what is the fullform of EOS ?
+     1.Safe Exchange...   2.SophiaTX   3.EOS
+4. what is the fullform of WABI ?
+     1.Shift   2.WaBi   3.Kyber Network
+5. what is the fullform of DPY ?
+     1.ColossusCoinXT   2.Delphy   3.Centra
+6. what is the shortform of Edgeless ?
+     1.OMG   2.EDG   3.DTR
+7. what is the shortform of Monaco ?
+     1.MCO   2.ACT   3.ARDR
+8. what is the shortform of TRON ?
+     1.TRX   2.QBT   3.ZEN
+9. what is the shortform of MonaCoin ?
+     1.NULS   2.MONA   3.DMD
+10. what is the shortform of bitCNY ?
+     1.IOC   2.BITCNY   3.ADT
+11. what is the shortform of Wagerr ?
+     1.WGR   2.MKR   3.ART
+12. what is the shortform of NAGA ?
+     1.XSH   2.SAN   3.NGC
+13. what is the price of IoT Chain ?
+     1.97593887.5528   2.77438400.0   3.84780835.9652
+14. what is the price of Olympus Labs ?
+     1.26985779.4094   2.63703593.7116   3.164327717.997
+15. what is the price of Bytom ?
+     1.88105710.0   2.362024691.0   3.52360680.0
+16. what is the price of Santiment Net... ?
+     1.843833234.909   2.111225918.071   3.392312341.615
+17. what is the price of ColossusCoinXT ?
+     1.28387204.2099   2.44607139.8357   3.53893155.2513
+18. what is the price of ICON ?
+     1.163232996.43   2.1732902951.59   3.249497760.06

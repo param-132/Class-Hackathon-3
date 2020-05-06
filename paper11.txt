@@ -1,0 +1,38 @@
+0. what is the fullform of LKK ?
+     1.ETHLend   2.Lykke   3.Rise
+1. what is the fullform of XVG ?
+     1.Dynamic Tradi...   2.Verge   3.Etherparty
+2. what is the fullform of MONA ?
+     1.All Sports   2.MonaCoin   3.SunContract
+3. what is the fullform of EOS ?
+     1.Cindicator   2.EOS   3.Spectrecoin
+4. what is the fullform of PRE ?
+     1.Bytecoin   2.ICON   3.Presearch
+5. what is the fullform of SWFTC ?
+     1.Veritaseum   2.NAV Coin   3.SwftCoin
+6. what is the shortform of Augur ?
+     1.REP   2.ETN   3.NXS
+7. what is the shortform of Monero ?
+     1.TRST   2.XMR   3.QBT
+8. what is the shortform of DomRaider ?
+     1.TRST   2.PURA   3.DRT
+9. what is the shortform of XTRABYTES ?
+     1.XBY   2.UBQ   3.MKR
+10. what is the shortform of Qbao ?
+     1.XRP   2.SYS   3.QBT
+11. what is the shortform of Lisk ?
+     1.PASC   2.GBYTE   3.LSK
+12. what is the shortform of Ardor ?
+     1.ARDR   2.ARDR   3.KCS
+13. what is the price of Ubiq ?
+     1.119636465.165   2.984926912.9   3.2210556738.64
+14. what is the price of PIVX ?
+     1.47748473.2999   2.349652337.273   3.35669440.0
+15. what is the price of Gas ?
+    1.641121800.0  2.28426194.219  3.412155924.496
+16. what is the price of Counterparty ?
+     1.843833234.909   2.83728844.3667   3.130307208.574
+17. what is the price of DigitalNote ?
+    1.37498339.4811  2.292618563.914  3.165248252.223
+18. what is the price of Ambrosus ?
+     1.69936839.05   2.83771817.7767   3.5585632875.51

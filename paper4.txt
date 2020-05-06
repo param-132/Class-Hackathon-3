@@ -1,0 +1,38 @@
+0. what is the fullform of PRO ?
+     1.Bibox Token   2.Propy   3.Ethereum Classic
+1. what is the fullform of VEN ?
+     1.All Sports   2.XTRABYTES   3.VeChain
+2. what is the fullform of ION ?
+     1.Mooncoin   2.Pillar   3.ION
+3. what is the fullform of ORME ?
+     1.Modum   2.Ormeus Coin   3.Achain
+4. what is the fullform of XBY ?
+     1.TaaS   2.Viberate   3.XTRABYTES
+5. what is the fullform of QSP ?
+     1.Storm   2.SaluS   3.Quantstamp
+6. what is the shortform of Bitcore ?
+     1.BTX   2.ETN   3.BLT
+7. what is the shortform of WhiteCoin ?
+     1.MANA   2.TKN   3.XWC
+8. what is the shortform of TRON ?
+     1.TRX   2.DEW   3.PURA
+9. what is the shortform of Aeternity ?
+     1.OCN   2.REP   3.AE
+10. what is the shortform of Ripio Credit ... ?
+     1.RCN   2.QLC   3.DNT
+11. what is the shortform of Verge ?
+     1.UBQ   2.IXT   3.XVG
+12. what is the shortform of Cappasity ?
+     1.NEO   2.XWC   3.CAPP
+13. what is the price of BLOCKv ?
+     1.107391705.282   2.104021240.905   3.150702985544.0
+14. what is the price of KuCoin Shares ?
+     1.349652337.273   2.569148506.168   3.48616807.7358
+15. what is the price of Aion ?
+    1.111225918.071  2.32239063.279  3.241785856.506
+16. what is the price of Experience Po... ?
+    1.45395935.0  2.47463625.9933  3.223058670.038
+17. what is the price of Gnosis ?
+    1.41746156.7983  2.866455937.14  3.163232996.43
+18. what is the price of Civic ?
+    1.461023552.5  2.393930290.057  3.164327717.997

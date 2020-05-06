@@ -1,0 +1,38 @@
+0. what is the fullform of PRL ?
+     1.Pascal Coin   2.Oyster   3.Everex
+1. what is the fullform of VRC ?
+     1.Rise   2.BitShares   3.VeriCoin
+2. what is the fullform of IXT ?
+     1.Trade Token   2.iXledger   3.AdEx
+3. what is the fullform of INT ?
+     1.Internet Node...   2.Revain   3.Namecoin
+4. what is the fullform of WGR ?
+     1.Blocktix   2.Binance Coin   3.Wagerr
+5. what is the fullform of PRL ?
+     1.Oyster   2.FairCoin   3.PACcoin
+6. what is the shortform of MobileGo ?
+     1.MLN   2.MGO   3.VERI
+7. what is the shortform of Ethos ?
+     1.ETHOS   2.SLS   3.CMT
+8. what is the shortform of Internet Node... ?
+     1.MIOTA   2.INT   3.XSPEC
+9. what is the shortform of FunFair ?
+     1.ETH   2.HSR   3.FUN
+10. what is the shortform of Quantstamp ?
+     1.QSP   2.XPA   3.TKN
+11. what is the shortform of Lunyr ?
+     1.LUN   2.HMQ   3.BAT
+12. what is the shortform of PACcoin ?
+     1.PAC   2.CFI   3.SNGLS
+13. what is the price of TokenCard ?
+    1.1131932189.79  2.63703593.7116  3.45850505.292
+14. what is the price of Dragonchain ?
+     1.287880000.0   2.401342804.26   3.37788975.0
+15. what is the price of OriginTrail ?
+     1.56827476.2086   2.71788524.6865   3.93936600.0
+16. what is the price of NoLimitCoin ?
+     1.35978512.92   2.29188400.7491   3.32239063.279
+17. what is the price of Ormeus Coin ?
+    1.311295823.89  2.27878839.1893  3.28426194.219
+18. what is the price of Gnosis ?
+    1.144885408.148  2.706362744.42  3.163232996.43
